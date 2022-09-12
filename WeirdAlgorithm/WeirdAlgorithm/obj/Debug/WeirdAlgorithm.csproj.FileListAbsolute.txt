@@ -1,0 +1,6 @@
+C:\Users\a\RiderProjects\WeirdAlgorithm\WeirdAlgorithm\WeirdAlgorithm\bin\Debug\WeirdAlgorithm.dll
+C:\Users\a\RiderProjects\WeirdAlgorithm\WeirdAlgorithm\WeirdAlgorithm\bin\Debug\WeirdAlgorithm.pdb
+C:\Users\a\RiderProjects\WeirdAlgorithm\WeirdAlgorithm\WeirdAlgorithm\obj\Debug\WeirdAlgorithm.csproj.AssemblyReference.cache
+C:\Users\a\RiderProjects\WeirdAlgorithm\WeirdAlgorithm\WeirdAlgorithm\obj\Debug\WeirdAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\a\RiderProjects\WeirdAlgorithm\WeirdAlgorithm\WeirdAlgorithm\obj\Debug\WeirdAlgorithm.dll
+C:\Users\a\RiderProjects\WeirdAlgorithm\WeirdAlgorithm\WeirdAlgorithm\obj\Debug\WeirdAlgorithm.pdb
